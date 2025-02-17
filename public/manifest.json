@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "name": "WA contact export",
+  "description": "Export contacts from WhatsApp Web",
+  "action": {
+    "default_popup": "./index.html",
+    "default_title": "WA contact export"
+  }
+}
